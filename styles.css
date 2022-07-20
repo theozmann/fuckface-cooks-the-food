@@ -2,3 +2,13 @@
     height: auto;
     width: 45em;
 }
+
+.title-img {
+    border-radius: 2%;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
